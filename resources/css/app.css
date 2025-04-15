@@ -1,0 +1,52 @@
+/* General Container Styling */
+.container-blue-archive {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Card Styling */
+.card-blue-archive {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header-blue-archive {
+    background-color: #1e90ff;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-body-blue-archive {
+    background-color: #e6f7ff;
+    border-radius: 0 0 10px 10px;
+}
+
+/* Button Styling */
+.btn-blue-archive {
+    background-color: #1e90ff;
+    border-color: #1e90ff;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn-blue-archive:hover {
+    background-color: #1c86ee;
+    border-color: #1c86ee;
+}
+
+/* Alert Styling */
+.alert-blue-archive {
+    border-radius: 5px;
+    background-color: #d4edda;
+    color: #155724;
+}
+
+/* Text Styling */
+.text-blue-archive {
+    color: #1e90ff;
+    font-weight: bold;
+}
