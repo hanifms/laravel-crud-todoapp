@@ -17,6 +17,7 @@
                     @endif
 
                     <p class="text-blue-archive">{{ __('You are logged in!') }}</p>
+                    <a href="{{ url('/todo') }}">Home</a>
                 </div>
             </div>
         </div>
