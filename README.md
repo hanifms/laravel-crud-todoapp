@@ -3,6 +3,9 @@
 ![image](https://github.com/user-attachments/assets/f83a451e-2cd1-406c-bb26-7fc116e9e8e2)
 (caption)LoginRequest.php
 
+![image](https://github.com/user-attachments/assets/4cb52fd9-a094-4258-a71a-41b449d935c5)
+(caption)RegisterRequest.php
+
 2. Profile Page
 ![image](https://github.com/user-attachments/assets/660effb4-1ed0-4cb4-bf52-a581fd9003ab)
 (caption)laravel-crud\resources\views\profile\edit.blade.php
